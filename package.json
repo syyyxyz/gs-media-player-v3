@@ -1,0 +1,8 @@
+{
+  "name": "ags-config",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "astal": "/usr/share/astal/gjs"
+  }
+}
